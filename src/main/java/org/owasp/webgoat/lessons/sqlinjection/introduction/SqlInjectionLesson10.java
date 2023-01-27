@@ -54,7 +54,6 @@ public class SqlInjectionLesson10 extends AssignmentEndpoint {
   }
 
 
-
   @PostMapping("/SqlInjection/attack10")
   @ResponseBody
   public AttackResult completed(@RequestParam String action_string) {
