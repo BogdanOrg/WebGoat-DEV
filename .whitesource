@@ -21,7 +21,6 @@
   },
   "scanSettingsSAST": {
     "enableScan": "true",
-    "scanPullRequests": "true",
-    "snippetSize": 0
+    "scanPullRequests": "true"
   }
 }
