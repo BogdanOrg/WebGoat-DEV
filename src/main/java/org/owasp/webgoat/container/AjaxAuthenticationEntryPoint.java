@@ -44,6 +44,7 @@ public class AjaxAuthenticationEntryPoint extends LoginUrlAuthenticationEntryPoi
     super(loginFormUrl);
   }
 
+  
   @Override
   public void commence(
       HttpServletRequest request,
