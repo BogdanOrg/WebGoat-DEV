@@ -11,6 +11,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 // TODO move back to lesson
 public class VulnerableTaskHolder implements Serializable {
+
     
   private static final long serialVersionUID = 2;
   private String taskName;
@@ -24,6 +25,7 @@ public class VulnerableTaskHolder implements Serializable {
     this.requestedExecutionTime = LocalDateTime.now();
   }
 
+    
   @Override
   public String toString() {
     return "VulnerableTaskHolder [taskName="
