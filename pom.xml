@@ -183,11 +183,7 @@
         <artifactId>xstream</artifactId>
         <version>${xstream.version}</version>
       </dependency>
-      <dependency>
-        <groupId>cglib</groupId>
-        <artifactId>cglib-nodep</artifactId>
-        <version>${cglib.version}</version>
-      </dependency>
+    
       <dependency>
         <groupId>xml-resolver</groupId>
         <artifactId>xml-resolver</artifactId>
