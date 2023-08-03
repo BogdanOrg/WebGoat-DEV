@@ -183,12 +183,6 @@
         <artifactId>xstream</artifactId>
         <version>${xstream.version}</version>
       </dependency>
-    
-      <dependency>
-        <groupId>xml-resolver</groupId>
-        <artifactId>xml-resolver</artifactId>
-        <version>${xml-resolver.version}</version>
-      </dependency>
       <dependency>
         <groupId>io.jsonwebtoken</groupId>
         <artifactId>jjwt</artifactId>
