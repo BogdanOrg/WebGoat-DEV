@@ -1,8 +1,8 @@
 {
-  "scanSettings": {
-    "baseBranches": ["main", "develop", "staging"]
+  "generalSettigns": {
+    "shouldScanRepo": "false"
   },
   "scanSettingsSAST": {
-    "enableScan": "false"
+    "enableScan": "true"
   }
 }
