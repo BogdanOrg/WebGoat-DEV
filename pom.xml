@@ -149,12 +149,7 @@
   </properties>
 
   <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>org.ow2.asm</groupId>
-        <artifactId>asm</artifactId>
-        <version>9.1</version>
-      </dependency>
+    
 
       <dependency>
         <groupId>org.apache.commons</groupId>
