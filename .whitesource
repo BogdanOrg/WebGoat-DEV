@@ -1,5 +1,8 @@
 {
   "scanSettingsSAST": {
     "enableScan": false
+  },
+"scanSettings": {
+   "baseBranches": ["main", "develop", "staging"]
   }
 }
